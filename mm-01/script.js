@@ -24,6 +24,8 @@
 				App.iteration(n);
 
 				App.searchRoots();
+
+				document.getElementById('wrapper').className = '';
 			},
 			/**
 			 * Обработка количества уравнений

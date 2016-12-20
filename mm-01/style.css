@@ -56,6 +56,9 @@ h1{
     border-right: 3px dashed whitesmoke;
     border-left: 3px dashed whitesmoke;
 }
+#wrapper.hidden{
+    display: none;
+}
 
 #system, #iterations{
     width: 100%;
